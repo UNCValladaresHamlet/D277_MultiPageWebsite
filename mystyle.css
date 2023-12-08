@@ -1,3 +1,15 @@
+/* one font-family declaration */
+body {
+    font-family: Arial;
+  }
+
+/* a :hover pseudo-class to create a rollover effect for navigation buttons */
+.nav-button:hover {
+    background-color: #2980b9;
+  }
+
+
+
 table {
     margin: auto;
   }
