@@ -1,15 +1,60 @@
 /* one font-family declaration */
-body {
-    font-family: Arial;
+/* one element selector to style the HTML elements */
+* {
+    font-family: sans-serif;
   }
 
-/* a :hover pseudo-class to create a rollover effect for navigation buttons */
+/* a:hover pseudo-class to create a rollover effect for navigation buttons */
 .nav-button:hover {
     background-color: #2980b9;
   }
 
-
-
 table {
     margin: auto;
   }
+
+.container {
+    width: 100%;
+    overflow: hidden; 
+  }
+
+/*  one class selector that is used at least two times to style HTML elements */
+.my-class {
+  color: blue;
+  font-size: 18px;
+}
+
+/* a float property to position at least one HTML element to the side of another in your web page */
+.box1 {
+    width: 50%;
+    height:100px;
+    float: left;
+    background-color: lightblue;
+    border: 1px solid black;
+}
+
+/* a float property to position at least one HTML element to the side of another in your web page */
+.box2 {
+    width: 50%; 
+    height:100px;
+    float: left;
+    background-color: lightcoral;
+    border: 1px solid black;
+}
+/*  absolute positioning in at least one area of your web page */
+/* one ID selector to format specific elements of a page */
+#absolute-content{
+  position: absolute;
+  background-color: #2980b9;
+  padding: 10px;
+  border: 1px solid black;
+}
+
+/* relative positioning in at least one area of your web page */
+.relative-content {
+  position: relative;
+  left: 30px;
+  border: 3px solid black;
+  color: red;
+}
+
