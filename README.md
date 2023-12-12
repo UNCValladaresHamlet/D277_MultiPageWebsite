@@ -42,7 +42,3 @@ Classification of Asheville: https://www.ashevillenc.gov/projects/urban-centers/
 Asheville's Average Income: https://censusreporter.org/profiles/16000US3702140-asheville-nc/
 
 Fun things to do in Asheville: https://www.exploreasheville.com/stories/post/50-things-to-do-in-asheville/
-
-Carolina Panthers Game Tickets:
-
-Carowinds Tickets: 
